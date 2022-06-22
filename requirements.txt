@@ -1,7 +1,7 @@
 tensorflow==2.1.0
 scipy==1.1.0
 argparse==1.1
-numpy==1.18.2
+numpy==1.22.0
 flask==1.1.2
 flask_restful==0.3.8
 Pillow==7.1.2
